@@ -1,0 +1,434 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Texas-Sized Vanilla Sheet Cake with Cream Cheese Frosting",
+      "image": "https://littlespicejar.com/wp-content/uploads/2016/05/Texas-Sized-Vanilla-Sheet-Cake-with-Cream-Cheese-Frosting-2.jpg",
+      "type": "dessert",
+      "time": "25 mins",
+      "difficulty": "easy",
+      "ingredients": [
+        ["cake" ,
+          "2 1/4 cup all-purpose flour",
+          "2 tablespoons cornstarch",
+          "1 teaspoon baking soda",
+          "1 cup (2 sticks) salted butter, room temperature",
+          "2 cups granulated sugar",
+          "3 large eggs, room temperature",
+          "1 tablespoon vanilla",
+          "1/2 cup sour cream, room temperature",
+          "1 cup buttermilk, room temperature"],
+        ["froasting",
+          "1/2 cup (4 ounces) salted butter, room temperature",
+          "8 ounces cream cheese, room temperature",
+          "2 teaspoons lemon juice",
+          "3 1/2 - 4 1/2 cups confectioners sugar (sifted)",
+          "sanding sugar and fresh berries, for decorating"]
+      ],
+      "recipe": [
+        "CAKE: Position a rack in the center of the oven and preheat the oven to 350ºF. Generously grease a 12x17 inch half sheet pan. Set aside.",
+        "Place a sieve over a large bowl. Add the flour, cornstarch, and baking soda and sift. Set aside. In a 2 cup measuring cup, combine the buttermilk and sour cream and whisk to combine, set aside.",
+        "In the bowl of an electric mixer fitted with the paddle attachment, cream the butter for about 1 minute on medium speed. When the butter starts to lighten in color, reduce the speed to low and add the sugar. Increase the speed to medium and allow the butter and sugar mixture to become fluffy. Stop the mixture scrape the sides of the bowl to get it all mixed. Start the mixture and beat in the eggs one at a time waiting until each is incorporated before adding the next. Add the vanilla. Reduce the speed to low and add in 1/3 of the flour mixture, followed by 1/2 of the buttermilk, and continue until you finish the last of the flour mixture. Do not overmix. Using a rubber spatula, give the mixture a final mix.",
+        "Spread the cake batter into the prepared sheet pan. Smooth it out into an even layer with your rubber spatula. Bake the cake for 21-25 minutes stopping at the 12 minutes mark and rotating the pan. The cake is done when a toothpick inserted in the center comes out clean. Mine took exactly 22 minutes. Allow the cake to cool completely before frosting.",
+        "FROSTING: In the bowl of an electric mixer fitted with the whisk attachment, whip the butter for 1-2 minutes or until the butter is light and fluffy. Using a rubber spatula, remove the butter from the bowl into a small bowl. Add the cream cheese and whip for 30 seconds or until the cream cheese is light and fluffy. Add the butter back into the cream cheese mixture along with the lemon juice and 3 1/2 cups of the powdered sugar. Start the machine on the stir setting until mostly combined, then increase the speed and whisk for another 1-2 minutes. If your frosting isn't holding its shape, add the remaining 1 cup of confectioners sugar in and whisk to combine.",
+        "Spread the frosting all over the cooled cake. Top with sanding sugar and fresh berries if desired. The cake will last covered in the refrigerator for up to 5 days."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "The Easiest Eggless Tiramisu",
+      "image": "https://littlespicejar.com/wp-content/uploads/2019/06/The-Easiest-Eggless-Tiramisu-14-710x1065.jpg",
+      "type": "dessert",
+      "time": "15 mins",
+      "difficulty": "easy",
+      "ingredients": [
+        [
+          "1 1/4 cup heavy whipping cream, cold",
+          "1/2 cup powdered sugar",
+          "2 teaspoons vanilla extract",
+          "1 (8-ounce) mascarpone cheese, cold",
+          "2 cups strong brewed coffee or espresso (see notes)",
+          "1 (7-ounce) package ladyfingers (or savoiardi)",
+          "2 tablespoons EACH: granulated sugar AND cocoa powder, for dusting"
+        ]
+      ],
+      "recipe": [
+        "WHIP IT GOOD: Add the heavy cream into the bowl on a stand mixer fitted with the whisk attachment, beat for 30 seconds. Then, add the powdered sugar and the vanilla and continue to whip until the whipped cream starts to thicken into a super soft cream. Add the mascarpone cheese and continue to run the mixer on medium until the cream fluffs up and stiff peaks form. When it doubt, stop the mixer and mix using a spatula, you don’t want to over mix this or it will turn to butter!",
+        "ESPRESSO: While the mixer is running, combine the prepared espresso and the granulated sugar and stir until the sugar dissolves.",
+        "LAYER IT: Grab an 8x8 baking dish (or something similar in size.) Do a quick dip of the ladyfinger into the prepared espresso and place them in a single layer in the baking dish (about 9-10 ladyfingers.) Spread half of the prepared mascarpone mixture on top of the layer of ladyfingers and spread using an offset spatula. Make a second layer of ladyfingers by quickly dipping them in espresso and laying them side by side. Spread or pipe the remaining mascarpone cream on top.",
+        "DUST IT OFF: Place the cocoa powder in a small sieve and dust the top of the tiramisu. Refrigerate for at least 4 hours. I prefer to make this one day ahead of when I plan on serving it as it cuts cleaner pieces! It’s the ideal make-ahead dessert!"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "New York-Style Instant Pot Cheesecake",
+      "image": "https://littlespicejar.com/wp-content/uploads/2017/11/New-York-Style-Instant-Pot-Cheesecake-1.jpg",
+      "type": "dessert",
+      "time": "1 hour 5 mins",
+      "difficulty": "middle",
+      "ingredients": [
+        [ "Graham cracker crust",
+          "3 tablespoons sugar",
+          "5 tablespoons butter",
+          "9 large graham crackers, pulsed into crumbs",
+          "2 tablespoons ground pecans",
+          "1/4 teaspoon cinnamon"
+        ],
+        [
+          "Cheesecake filling",
+          "12 ounces cream cheese (or 1 1/2 packages)",
+          "1/4 teaspoon kosher salt",
+          "2 teaspoons lemon zest",
+          "2 teaspoons vanilla extract",
+          "1 tablespoon cornstarch",
+          "1/2 cup + 2 tablespoons granulated sugar",
+          "2 large eggs + 1 egg yolk",
+          "1/2 cup sour cream"
+        ]
+      ],
+      "recipe": [
+        "Position a rack in the center of the oven and preheat the oven to 350ºF if you plan on baking the crust. If you're freezing it, you can skip this step. Regardless of which method you use, wrap your 6 or 7-inch springform pan tightly in foil and spray the inside of the pan with non-stick cooking spray.",
+        "crust: combine the butter and sugar in a microwave-safe bowl and zap until the butter melts, about 30-40 seconds. In a medium bowl, combine the cracker crumbs, pecans, and cinnamon. Pour the melted butter on top and using a rubber spatula mix until the crumbs are covered in the butter. Press the crumb mixture into the bottom of the prepared pan and about 1-inch up the sides. Place the pan in the freezer for 15-20 minutes or bake for 10 minutes. If baking, allow the crust to cool to room temperature before proceeding.",
+        "cheesecake filling: In the bowl of a stand mixer fitted with the paddle attachment, beat the cream cheese, salt, vanilla, lemon zest, and cornstarch until smooth, about 1-2 minutes. Add the sugar and let it mix in completely before adding the eggs one at a time. Add the sour cream and mix until just combined. Pour the batter into the crust. Cover the top of the springform pan with a piece of foil and wrap it tightly around the rim.",
+        "pressure cook: Pour 1 1/4 cups of water into the base of the instant pot and place the steaming rack on the bottom. Place the springform pan on the rack. Lock the lid in place and seal the vent. Cook the cheesecake on manual high pressure for 37 minutes and allow the Instant Pot to naturally release its pressure for 25 minutes afterward (the 'keep warm' setting should still be on, you don't want to turn your IP off completely).",
+        "let cool: carefully remove the springform pan from the IP then remove the foil. Using a piece of kitchen towel, gently wipe the surface of the cheesecake if there is any moisture on the surface of the cake. Allow the cheesecake to cool to room temperature, about 3 hours before placing it in the refrigerator to cool overnight. Cheesecake can be prepared 24-48 hours in advance. Top with whipped cream, berries, or apple or cherry pie filling before serving!"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Gluten-Free Rum Balls",
+      "image": "https://www.saltandlavender.com/wp-content/uploads/2017/12/easy-coconut-rum-truffles-3-768x1066.jpg",
+      "type": "dessert",
+      "time": "40 mins",
+      "difficulty": "easy",
+      "ingredients": [
+        [
+          "1 cup walnut pieces",
+          "1-2 cups vegan chocolate chips"
+          ],
+          ["1 cup coconut flour",
+            "1 tablespoon unsweetened cocoa powder",
+            "3 tablespoons (packed) brown sugar",
+            "1 teaspoon pure vanilla extract",
+            "4 tablespoons pure maple syrup",
+            "2-3 tablespoons dark rum",
+            "3/4 cup water"
+          ]
+        ],
+      "recipe": [
+        "Whisk together the dry filling ingredients in a medium bowl (the coconut flour, cocoa powder, and the sugar) then stir the wet ones (vanilla, maple syrup, rum, water) in. Stir until you've got a smooth mixture and pop the bowl in the fridge.",
+        "The walnuts need to be in really small pieces. You can either chop them up in a food processor (but don't totally pulverize them) or put them in a Ziploc and smash them with a rolling pin.",
+        "Form the filling into balls. I find smaller balls work a lot better for this recipe... I aimed for 3/4''-1'' balls.",
+        "Melt the chocolate. I do this in 15 second intervals in the microwave (note: it's really easy to burn dairy-free chocolate so do it very carefully or use a double boiler). I suggest starting with one cup and melting more if/when you run out so you don't waste it.",
+        "Dip the balls in the chocolate and then gently roll them in the walnuts. This process can get a little messy, so just have fun with it. Add the finished balls to a plate or baking sheet. Once they're all done, pop them in the freezer for about 20 minutes to set. Once they've set, I suggest keeping them in a sealed container in the fridge and taking them out just prior to serving."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Vegan Matcha Cookies",
+      "image": "https://www.saltandlavender.com/wp-content/uploads/2018/02/vegan-matcha-cookies-1-768x1152.jpg",
+      "type": "dessert",
+      "time": "20 mins",
+      "difficulty": "easy",
+      "ingredients": [
+        [
+          "1 cup vegan butter slightly softened",
+          "1 cup granulated sugar",
+          "1 flax egg (1 tbsp ground flaxseed + 3 tbsp water)",
+          "1 teaspoon pure vanilla extract",
+          "2.5 cups all-purpose flour",
+          "2 teaspoons baking powder",
+          "1.5 tablespoons matcha ",
+          "2 tablespoons EACH: granulated sugar AND cocoa powder, for dusting",
+          "1 small pinch of salt"
+        ]
+      ],
+      "recipe": [
+        "Prepare your flax egg by mixing the ground flaxseed and water in a small bowl. Set it aside, and prep the rest of your ingredients so it has the chance to sit for 10 minutes or so.",
+        "Preheat oven to 400F and move the rack to the middle of the oven. Line a baking sheet with a Silpat non-stick mat or parchment paper.",
+        "Cream the vegan butter and sugar together in a large mixing bowl using an electric mixer on a low speed.",
+        "Add the flax egg and vanilla extract to the bowl. Mix on low.",
+        "Whisk the flour, baking powder, matcha, and salt together in a medium bowl.",
+        "Gradually add the flour mixture to the butter/sugar mixture, mixing it on a low speed until all the flour is incorporated.",
+        "Gently roll the dough into 1.5'' balls. Place the balls at least a couple of inches apart (cookies will spread) on the baking sheet. I bake two batches (one batch at a time). I found 11-12 minutes was perfect to get soft cookies (I like slightly undercooked middles) without the bottoms being too brown. You may need to adjust cooking time as needed based on your preferences.",
+        "Transfer cookies to a cooling rack and then transfer them to an airtight container as soon as they've cooled a bit so they remain nice and soft."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Funfetti Cake Mix Cookies",
+      "image": "https://www.saltandlavender.com/wp-content/uploads/2018/05/funfetti-cake-mix-cookies-4-768x1061.jpg",
+      "type": "dessert",
+      "time": "12 mins",
+      "difficulty": "easy",
+      "ingredients": [
+        [
+          "1 (15.25 ounce) box funfetti cake mix",
+          "1/2 cup vegetable oil (e.g. canola)", 
+          "2 eggs",
+          "Rainbow sprinkles (optional)"
+          ]
+        ],
+      "recipe": [
+        "Add the funfetti cake mix, vegetable oil, eggs, and rainbow sprinkles (if using extra ones) to a large mixing bowl. Using an electric hand mixer, mix until combined.",
+        "Chill for 30 minutes. I recommend this step since the dough is sticky and you will also get slightly puffier cookies with chilling, but you don't have to chill them. I didn't chill the cookies in the photos for the full 30 minutes.",
+        "Meanwhile, preheat your oven to 350F. Line a baking sheet with parchment paper or a Silpat non-stick mat.",
+        "Make 2'' balls and place them on the baking sheet at least 2'' apart, if not more since they do spread. Bake for 11-13 minutes until they're set.",
+        "Let them cool for a few minutes on the baking sheet, then transfer to a cooling rack. Once cooled, store cookies in an airtight container.",
+        "Want to frost them? Here's the recipe for my funfetti frosting."
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Creamy Lemon Broccoli Pasta",
+      "image": "https://v1.nitrocdn.com/gdQToJpjwmoFSVXcSlvjpaoApjexzIdE/assets/static/optimized/rev-a573ee2/wp-content/uploads/2021/03/creamy-broccoli-pasta-1-768x1152.jpg",
+      "type": "pasta",
+      "time": " 20 mins",
+      "difficulty": "easy",
+      "ingredients": [
+        [
+          "8 ounces uncooked pasta",
+          "3 heaping cups broccoli cut into small florets",
+          "2 tablespoons butter",
+          "1/2 tablespoon flour",
+          "1-2 cloves garlic minced",
+          "1/4 cup chicken or vegetable broth",
+          "2 teaspoons lemon juice",
+          "1/4 teaspoon Italian seasoning",
+          "1 cup heavy/whipping cream",
+          "1/3 cup freshly grated parmesan cheese",
+          "Salt & pepper to taste"
+        ]
+      ],
+      "recipe": [
+        "Boil a large, salted pot of water. Cook the pasta al dente according to package instructions. When the pasta is 2-3 minutes away from being done, you will add the broccoli to the water.",
+        "Add the butter to a skillet over medium-high heat, and once it's melted, stir in the flour and cook for 1-2 minutes.",
+        "To the skillet, add in the garlic, broth, lemon juice, and Italian seasoning. Let it bubble for a minute or so.",
+        "Whisk in the cream and let it cook for a few minutes until it's thickened up to your liking, then stir in the parmesan cheese and take the pan off the heat.",
+        "Drain the pasta and broccoli and add it to the skillet. If the sauce has thickened up too much, add a small splash of the pasta water prior to draining it. Season the pasta with salt & pepper as needed and serve immediately with extra parmesan grated on top if desired."
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Creamy Lemon Garlic Parmesan Shrimp",
+      "image": "https://v1.nitrocdn.com/gdQToJpjwmoFSVXcSlvjpaoApjexzIdE/assets/static/source/rev-a573ee2/wp-content/uploads/2017/09/creamy-lemon-shrimp-pasta-4-768x1152.jpg",
+      "type": "seafood",
+      "time": "10 mins",
+      "difficulty": "easy",
+      "ingredients":
+      [
+        [
+          "1 pound shrimp (I used 31-40 count size) thawed & peeled",
+          "2 tablespoons butter",
+          "1 teaspoon flour",
+          "4-5 cloves garlic minced",
+          "1 tablespoon lemon juice + zest of 1 lemon",
+          "1 cup heavy/whipping cream",
+          "1/4 teaspoon Italian seasoning",
+          "1/2 cup freshly grated parmesan cheese",
+          "1 tablespoon fresh parsley chopped",
+          "Salt & pepper to taste"
+        ]
+      ],
+      "recipe": [
+        "Prep the shrimp (run them under cool water if they're frozen). You can remove the tails if you want. Pat them dry with paper towel.",
+        "Melt the butter over medium-high heat in a large skillet. Stir in the flour and cook for about a minute.",
+        "Add the garlic and cook for 30 seconds.",
+        "Stir in the lemon juice + zest, cream, and Italian seasoning. Simmer for 2 minutes.",
+        "Add the shrimp and cook for around 5 minutes, stirring occasionally, or until they're cooked through and the sauce has thickened up a bit (be careful not to overcook the shrimp). Reduce the heat a bit if it's bubbling like crazy/thickening too fast.",
+        "Stir in the parmesan cheese and parsley, then take the skillet off the heat.",
+        "Season with salt & pepper as needed. Serve immediately.",
+        "Drain the pasta and broccoli and add it to the skillet. If the sauce has thickened up too much, add a small splash of the pasta water prior to draining it. Season the pasta with salt & pepper as needed and serve immediately with extra parmesan grated on top if desired."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Instant Pot Beef and Vegetable Soup",
+      "image": "https://v1.nitrocdn.com/gdQToJpjwmoFSVXcSlvjpaoApjexzIdE/assets/static/source/rev-a573ee2/wp-content/uploads/2020/05/instant-pot-beef-vegetable-soup-1-768x1152.jpg",
+      "type": "soup",
+      "time": "55 mins",
+      "difficulty": "middle",
+      "ingredients": [
+        [
+          "1 pound stewing beef cut into small (3/4-1'' pieces)",
+          "3 medium carrots peeled & sliced",
+          "3 sticks celery chopped",
+          "1 medium onion chopped",
+          "2 tablespoons olive oil",
+          "3 cloves garlic minced",
+          "4 cups beef broth",
+          "2 cups water",
+          "2 large Russet potatoes peeled & diced",
+          "1 teaspoon Worcestershire sauce",
+          "1/4 teaspoon Italian seasoning",
+          "3/4 cup frozen peas and/or corn optional",
+          "Salt & pepper to taste"
+        ]
+      ],
+      "recipe": [
+        "Cut the beef into smaller pieces (about 3/4-1'' or so cubes) - they will cook faster and be more tender. Season them with salt & pepper. Prep the other ingredients.",
+        "Add the olive oil to your Instant Pot (IP) and press the sauté button. Brown the beef on all sides (about 5 minutes total). If you think the IP will be crowded, do this in two batches. Take the meat out and set it aside, and then spoon out most of the excess fat from your IP (leave about 1-2 tablespoons).",
+        "Add in the onion and celery and sauté for 4-5 minutes, then stir in the garlic. Ensure any brown bits are scraped up from the bottom of the IP.",
+        "Add the meat back into the IP, along with the carrots, potatoes, broth, water, Worcestershire sauce, and Italian seasoning.",
+        "Close the lid, ensure the valve is on 'sealing', and then press the 'manual' button and set it to cook on high pressure for 20 minutes. It'll take at least 10 minutes to get up to pressure.",
+        "Once the countdown has finished, let the pressure naturally release for 15 minutes, then turn the valve to release the remaining pressure.",
+        "Stir in the frozen peas and corn (I just mix the two together, but you can use one or both or neither). They will cook through really fast. Season the soup with extra salt & pepper as needed."
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Crockpot Chicken and Gravy",
+      "image": "https://v1.nitrocdn.com/gdQToJpjwmoFSVXcSlvjpaoApjexzIdE/assets/static/source/rev-a573ee2/wp-content/uploads/2020/02/crockpot-chicken-and-gravy-2-768x1152.jpg",
+      "type": "meat",
+      "time": "3 h 15 mins",
+      "difficulty": "middle",
+      "ingredients": [
+        [
+          "2 pounds chicken breasts boneless skinless",
+          "1.5 cups chicken broth",
+          "1 packet ranch seasoning mix",
+          "1/4 teaspoon garlic powder",
+          "Pepper to taste",
+          "1 tablespoon cornstarch + 1 tablespoon cold water",
+          "1 packet chicken gravy mix"
+        ]
+      ],
+      "recipe": [
+        "Add the chicken broth, ranch seasoning mix, garlic powder, and pepper to your slow cooker. Whisk until the powders have dissolved.",
+        "Add the chicken and ensure it's mostly submerged (spoon some liquid over top if it's not). Cook on high for 2.5-3 hours or on low for 6-8 hours.",
+        "Take the chicken out of the Crockpot. Mix the cornstarch and water together in a small bowl. Pour it into your slow cooker, along with the chicken gravy mix. Make sure the heat is set on 'high', and whisk until the gravy mix has dissolved. Meanwhile, shred/cut the chicken up, and then add it back into the Crockpot. Cook with the lid on for a few more minutes until the gravy has thickened up a bit. Meanwhile, preheat your oven to 350F. Line a baking sheet with parchment paper or a Silpat non-stick mat.",
+        "Serve immediately. It's delicious with mashed (or baked) potatoes, pasta, or rice."
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Roasted Potatoes and Carrots",
+      "image": "https://v1.nitrocdn.com/gdQToJpjwmoFSVXcSlvjpaoApjexzIdE/assets/static/optimized/rev-a573ee2/wp-content/uploads/2021/03/roasted-potatoes-and-carrots-5-768x1152.jpg",
+      "type": "vegetables",
+      "time": "50 mins",
+      "difficulty": "easy",
+      "ingredients": [
+        [
+          "1.5 pounds Yukon Gold potatoes cut into 1.5'' pieces",
+          "1.5 pounds medium-to-large carrots peeled and cut into 1.5'' pieces",
+          "3 tablespoons olive oil",
+          "1.5 teaspoons Italian seasoning",
+          "Salt & pepper to taste"
+        ]
+      ],
+      "recipe": [
+        "Preheat your oven to 400F and move the rack to the middle position. Line a baking sheet with foil or parchment paper for easy clean-up.",
+        "Cut the potatoes and carrots into roughly the same size pieces (doesn't have to be exact, but similar size is good). I don't peel the potatoes, but you can if you prefer.",
+        "Add the carrots and potatoes to a prep bowl and toss with the oil, Italian seasoning, and salt & pepper (I'm generous with both). Transfer the veggies to the baking sheet and spread them out in an even layer (the less they touch the more crispy they will get).",
+        "Bake for 50-60 minutes or until they're soft and browned to your liking. You can toss them halfway thru for more even color, but I don't usually bother. Cooking time will depend on the size they're cut as well and your particular oven and baking sheet, so check after 45-50 minutes, especially if you've got some smaller pieces."
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Guacamole",
+      "image": "https://v1.nitrocdn.com/gdQToJpjwmoFSVXcSlvjpaoApjexzIdE/assets/static/source/rev-a573ee2/wp-content/uploads/2015/10/easy-guacamole-recipe-1-768x1152.jpg",
+      "type": "sauce",
+      "time": "15 mins",
+      "difficulty": "easy",
+      "ingredients": [
+        [
+          "2 avocados cut into halves, pitted & peeled or flesh scooped out",
+          "Juice of 1/2 lime",
+          "1-2 tablespoons cilantro finely chopped",
+          "Salt & pepper to taste",
+          "1-2 tablespoons onion chopped",
+          "1 small jalapeño or serrano pepper chopped (optional)",
+          "1 small tomato chopped"
+        ]
+      ],
+      "recipe": [
+        "Prep all ingredients.",
+        "In a bowl, add avocados, lime juice, cilantro, and salt & pepper. Using a fork, mash into desired texture.",
+        "Gently mix in onions, jalapeño pepper, and tomatoes.",
+        "Taste and adjust if needed (e.g. add more of a certain ingredient). Serve immediately."
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Pesto Sauce",
+      "image": "https://www.saltandlavender.com/wp-content/uploads/2018/06/homemade-pesto-recipe-2-768x1220.jpg",
+      "type": "sauce",
+      "time": "5 mins",
+      "difficulty": "easy",
+      "ingredients": [
+        [
+          "1 cup (tightly packed) basil",
+          "1/3 cup pine nuts",
+          "3/4 cup freshly grated parmesan cheese",
+          "2-3 cloves garlic minced",
+          "1/3 cup olive oil",
+          "Salt & pepper to taste"
+        ]
+      ],
+      "recipe": [
+        "If you wish to toast the pine nuts, add them to a skillet over medium-high heat, and watch them carefully. After a few minutes, they will start to brown. Toss them often until they're lightly golden/browned on both sides. This whole process only takes about 5-10 minutes.",
+        "Prep your other ingredients and add everything to the bowl of a food processor except for the olive oil.",
+        "Pulse until everything is combined, then slowly drizzle the oil in while the motor is running on 'low'. Stop to scrape down the sides and continue processing until there's no large pieces of pine nuts.",
+        "Transfer to a jar and store in the fridge for up to a week. Great with pasta (try my chicken pesto pasta salad if you're interested)."
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Mango Lime Salsa",
+      "image": "https://www.saltandlavender.com/wp-content/uploads/2018/04/mango-salsa-recipe-3-768x1108.jpg",
+      "type": "salad",
+      "time": "15 mins",
+      "difficulty": "easy",
+      "ingredients": [
+        [
+          "3 mangoes diced",
+          "2 Persian (mini) cucumbers or 1/2 English cucumber chopped",
+          "2 tablespoons red onion chopped",
+          "2 tablespoons fresh cilantro chopped",
+          "1 jalapeno pepper chopped (optional)",
+          "Juice of 1/2 lime",
+          "1 teaspoon olive oil",
+          "Salt & pepper to taste"
+        ]
+      ],
+      "recipe": [
+        "Prep your mangoes. If you're unsure how to easily cut them, this tutorial is really handy.",
+        "Prep the rest of your ingredients and add them to a medium bowl. Toss together.",
+        "Either serve the mango salsa immediately or chill for a few hours. Can be kept for a couple of days in the fridge."
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Lemon Chicken Gnocchi",
+      "image": "https://v1.nitrocdn.com/gdQToJpjwmoFSVXcSlvjpaoApjexzIdE/assets/static/source/rev-a573ee2/wp-content/uploads/2021/03/lemon-chicken-gnocchi-recipe-3-768x1152.jpg",
+      "type": "meat",
+      "time": "20 mins",
+      "difficulty": "middle",
+      "ingredients": [
+        [
+          "2 chicken breasts cut in half lengthwise",
+          "1/2 teaspoon garlic powder",
+          "1 teaspoon lemon pepper seasoning see note",
+          "1 tablespoon olive oil",
+          "1 tablespoon butter",
+          "2 cloves garlic minced",
+          "1/2 cup chicken broth",
+          "1 tablespoon lemon juice",
+          "1 cup heavy/whipping cream",
+          "1 pound uncooked potato gnocchi",
+          "1/2 cup freshly grated parmesan cheese",
+          "2 cups (packed) fresh baby spinach",
+          "Salt & pepper to taste"
+        ]
+      ],
+      "recipe": [
+        "Cut the chicken in half lengthwise so you've got 2 thinner cutlets. Season each side with the garlic powder and lemon pepper. If the lemon pepper seasoning you're using doesn't contain salt, be sure to salt the chicken as well.",
+        "Add the oil and butter to a skillet over medium-high heat and let the pan heat up for a few minutes. Sear the chicken for about 5 minutes/side or until it's golden and cooked though. Transfer the chicken to a plate (tent with foil to keep warm if you wish).",
+        "Reduce the heat to medium and add the garlic to the skillet and cook for about 30 seconds.",
+        "Stir in the chicken broth and lemon juice and scrape up any brown bits from the bottom of the pan.",
+        "Add in the cream and gnocchi. Give it a good stir and ensure the gnocchi is submerged in the liquid. Let it bubble gently, uncovered, for 5-7 minutes, stirring occasionally, or until the gnocchi is cooked and the sauce has thickened. The gnocchi will release starch as it cooks, thickening up the sauce, so do not pre-cook the gnocchi. Keep in mind the sauce will thicken more as it cools, so don't let it get too thick (add a splash more broth if needed).",
+        "Take the pan off the heat and add in the parmesan cheese and spinach. Toss until the spinach has started to wilt and it's nicely mixed in. Add the chicken back into the skillet (along with any juices from the plate) and spoon some sauce over top. Serve immediately."
+      ]
+    }
+  ]
+}
